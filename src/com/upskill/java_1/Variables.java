@@ -48,5 +48,11 @@ public class Variables {
 		String myCounty = county;
 		System.out.println(myCounty);
 	}
+	
+	//Git change
+	public void git(){
+		
+	}
+	
 }
 
